@@ -30,7 +30,7 @@ Gem::Specification.new do |spec|
   spec.description   = %q{GTK+ interface for Feedcellar is full-text searchable RSS feed reader by Rroonga. Using Ruby/GTK2.}
   spec.summary       = %q{GTK+ interface for Feedcellar}
   spec.homepage      = "https://github.com/feedcellar/feedcellar-gtk/"
-  spec.license       = "LGPLv2.1 or later"
+  spec.license       = "LGPLv2.1+"
 
   spec.files         = `git ls-files`.split($/)
   spec.executables   = spec.files.grep(%r{^bin/}) {|f| File.basename(f) }
