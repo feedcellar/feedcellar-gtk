@@ -8,7 +8,7 @@ Feedcellar::Gtk is a GTK+ interface for [Feedcellar][].
 
 Using [Ruby/GTK2][].
 
-[Ruby/GTK2]:http://ruby-gnome2.sourceforge.jp/"
+[Ruby/GTK2]:http://ruby-gnome2.sourceforge.jp/
 
 ## Installation
 
