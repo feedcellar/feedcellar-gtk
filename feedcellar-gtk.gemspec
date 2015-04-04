@@ -27,7 +27,7 @@ Gem::Specification.new do |spec|
   spec.version       = Feedcellar::Gtk::VERSION
   spec.authors       = ["Masafumi Yokoyama"]
   spec.email         = ["myokoym@gmail.com"]
-  spec.description   = %q{Feedcellar::Gtk is a GTK+ interface for Feedcellar that is full-text searchable RSS feed reader and data store.}
+  spec.description   = %q{Feedcellar::Gtk is a GTK+ interface for Feedcellar that is full-text searchable RSS feed reader and data store by Rroonga and Ruby/GTK2.}
   spec.summary       = %q{GTK+ interface for Feedcellar}
   spec.homepage      = "https://github.com/feedcellar/feedcellar-gtk/"
   spec.license       = "LGPLv2.1 or later"
