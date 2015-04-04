@@ -2,7 +2,7 @@
 
 [![Gem Version](https://badge.fury.io/rb/feedcellar-gtk.svg)](http://badge.fury.io/rb/feedcellar-gtk)
 
-Feedcellar::Gtk is a GTK+ interface for [Feedcellar][].
+Feedcellar::Gtk is a GTK+ interface for [Feedcellar][] that is full-text searchable RSS feed reader and data store.
 
 [Feedcellar]:https://github.com/feedcellar/feedcellar
 
